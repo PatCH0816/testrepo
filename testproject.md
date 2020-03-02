@@ -6,3 +6,4 @@ This is my third feature!!
 This is my fourth feature!
 This is my fifth feature!
 This is my sixth feature!
+This is my seventh feature!
